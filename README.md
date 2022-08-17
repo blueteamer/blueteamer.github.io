@@ -5,7 +5,7 @@ This site will be used for additional documentation of stuff stored in GitHub re
 Right now there is not much to read but it will become more over time. Stay tuned, follow and get in contact with me. 
 
 ## How to get in touch with me
-![LinkedIn](/li.svg){width=100px;height=100px} Jonathan Pfeifer 
+![LinkedIn](/li.svg){width:50px;height:50px} Jonathan Pfeifer 
 ![Twitter](tw.svg) @johnnythreeecho 
 ![GitHub](gh.svg) @blueteamer 
 ![Wordpress Blog](wp.svg) https://bettercalmdown.com 
